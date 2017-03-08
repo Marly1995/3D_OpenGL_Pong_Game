@@ -10,6 +10,12 @@ O & L for padle 2.
 Space to start.
 Arrow keys to control camera.
 
+## Gameplay Video
+
+<a href="https://www.youtube.com/watch?v=Pn5WtAuXPZU">
+<p align="center">
+</a>
+
 ## Licensing
 
 * the documentation of this book is licensed under a http://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]
