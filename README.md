@@ -12,11 +12,7 @@ Arrow keys to control camera.
 
 ## Gameplay Video
 
-<a href="https://www.youtube.com/watch?v=Pn5WtAuXPZU">
-<p align="center">
-<img src="https://github.com/Marly1995/3D_OpenGL_Pong_Game/blob/master/3.jpg" alt="Gantt Chart Table"/>
-</p>
-</a>
+<a href="https://www.youtube.com/watch?v=Pn5WtAuXPZU"></a>
 
 ## Licensing
 
