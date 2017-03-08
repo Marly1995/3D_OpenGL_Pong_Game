@@ -12,7 +12,7 @@ Arrow keys to control camera.
 
 ## Gameplay Video
 
-<a href="https://www.youtube.com/watch?v=Pn5WtAuXPZU"></a>
+https://www.youtube.com/watch?v=Pn5WtAuXPZU
 
 ## Licensing
 
